@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732604738576
+current_stage: None
+description: ''
+last_updated_timestamp: 1732604738576
+name: model
+run_id: 10f440af587840478b649a03c2d78fa9
+run_link: ''
+source: file:///c:/Users/91620/Desktop/CA2/mlruns/135442489860015190/10f440af587840478b649a03c2d78fa9/artifacts/SVM_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/91620/Desktop/CA2/mlruns/135442489860015190/10f440af587840478b649a03c2d78fa9/artifacts/SVM_model
+user_id: null
+version: 1
