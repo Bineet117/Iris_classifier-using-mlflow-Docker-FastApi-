@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/91620/Desktop/Iris_classifier-using-mlflow-Docker-FastApi-/mlruns/386309346056902868
+creation_time: 1735218614468
+experiment_id: '386309346056902868'
+last_update_time: 1735218614468
+lifecycle_stage: active
+name: random_forest_classifier

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/91620/Desktop/Iris_classifier-using-mlflow-Docker-FastApi-/mlruns/386309346056902868/776f1e84f5ec491095d31a90231a0fb3/artifacts
+end_time: 1735218620337
+entry_point_name: ''
+experiment_id: '386309346056902868'
+lifecycle_stage: active
+run_id: 776f1e84f5ec491095d31a90231a0fb3
+run_name: burly-skink-164
+run_uuid: 776f1e84f5ec491095d31a90231a0fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735218614489
+status: 3
+tags: []
+user_id: '91620'

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/91620/Desktop/Iris_classifier-using-mlflow-Docker-FastApi-/mlruns/555779645278521744/5272a38482c8467da897037e042ba16d/artifacts
+end_time: 1735218614437
+entry_point_name: ''
+experiment_id: '555779645278521744'
+lifecycle_stage: active
+run_id: 5272a38482c8467da897037e042ba16d
+run_name: big-smelt-905
+run_uuid: 5272a38482c8467da897037e042ba16d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735218604410
+status: 3
+tags: []
+user_id: '91620'
